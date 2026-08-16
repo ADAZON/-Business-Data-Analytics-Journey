@@ -1564,6 +1564,395 @@ Activities completed:
 - Analysts validate data before analysing it.
 - Dashboards communicate insights, not just numbers.
 
+- # Week 3: Business Data Analytics Capstone Project
+
+## Business Data Analytics Learning Journey
+
+**Period:** Week 3  
+**Programme:** BeTechified Africa Scholarship – Business Data Analytics  
+**Prepared by:** Adah Hope
+
+---
+
+# Week 3 Overview
+
+Week 3 was a defining milestone in my Business Data Analytics journey.
+
+This week marked my transition from learning Microsoft Excel functions to applying them in a structured business analysis project. Instead of simply working with formulas, I followed a complete analytics workflow, transforming raw sales data into meaningful business insights that could support decision-making.
+
+For the first time, I experienced the responsibilities of a Business Data Analyst from start to finish, including understanding the business problem, preparing data, validating its quality, building PivotTables, creating dashboards, interpreting results, and presenting recommendations.
+
+This week also strengthened my analytical thinking, business storytelling, leadership, and communication skills.
+
+---
+
+# Project Overview
+
+## Project Title
+
+**Retail Sales Performance Analysis**
+
+## Business Objective
+
+The objective of the project was to analyse a retail sales transactions dataset using Microsoft Excel and answer key business questions through data-driven insights.
+
+The project required transforming raw sales data into meaningful business intelligence by:
+
+- Cleaning the dataset
+- Validating data quality
+- Creating calculated fields
+- Building PivotTables
+- Designing an interactive dashboard
+- Answering business questions
+- Presenting strategic recommendations
+
+---
+
+# Business Questions
+
+The project focused on answering the following business questions:
+
+1. Which product categories generated the highest revenue?
+2. Which regions delivered the strongest sales performance?
+3. What were the monthly and quarterly sales trends?
+4. Which retailers generated the highest revenue?
+5. Which sales methods contributed the most revenue?
+6. Which product categories showed growth or decline?
+7. How did overall sales performance compare across the business?
+8. What strategic recommendations can improve business performance?
+
+Each question required transforming business requirements into measurable analytical outputs.
+
+---
+
+# Analytics Workflow
+
+The project followed a structured Business Data Analytics workflow.
+
+## Phase 1: Business Understanding
+
+Completed.
+
+Activities included:
+
+- Understanding the business problem
+- Defining objectives
+- Identifying stakeholders
+- Determining KPIs
+- Understanding project scope
+
+One of the biggest lessons from this phase was learning that successful analysis begins with understanding the business before analysing the data.
+
+---
+
+## Phase 2: Data Understanding
+
+Completed.
+
+Activities included:
+
+- Reviewing dataset structure
+- Identifying variables
+- Understanding relationships
+- Assessing data quality
+- Planning the analytical approach
+
+Understanding the dataset before cleaning it made later analysis much easier.
+
+---
+
+## Phase 3: Data Cleaning
+
+This became one of the most valuable stages of the project.
+
+Activities included:
+
+- Checking for missing values
+- Identifying duplicate records
+- Reviewing blank cells
+- Validating data types
+- Standardising formatting
+- Preparing the dataset for analysis
+
+The dataset contained:
+
+- No missing values
+- No duplicate records
+- No blank cells
+
+However, an important issue was discovered.
+
+The **Units Sold** column had been formatted as Currency instead of a numeric value.
+
+Correcting this issue ensured accurate calculations throughout the project.
+
+---
+
+# Data Validation
+
+One of the most interesting discoveries came during validation.
+
+I compared:
+
+**Price per Unit × Units Sold**
+
+against
+
+**Recorded Total Sales**
+
+Some calculated values did not exactly match the recorded Total Sales.
+
+Rather than assuming the dataset contained errors, I investigated possible explanations.
+
+Possible reasons included:
+
+- Discounts
+- Promotional pricing
+- Rounding differences
+- Internal business rules not captured in the dataset
+
+This reinforced an important lesson:
+
+> Business Data Analysts do not simply analyse data. They validate it before trusting it.
+
+---
+
+# Helper Columns Created
+
+To improve analysis and reporting, several calculated fields were added.
+
+These included:
+
+- Year
+- Month
+- Month Number
+- Quarter
+- Product Category
+- Gender
+- Sales Performance
+
+These helper columns simplified PivotTable creation and dashboard development.
+
+---
+
+# Microsoft Excel Skills Applied
+
+Throughout the project, I applied several Excel techniques.
+
+## Data Preparation
+
+- Formatting
+- Data Cleaning
+- Data Validation
+- Helper Columns
+
+---
+
+## PivotTables
+
+PivotTables were used to summarise:
+
+- Revenue
+- Product Categories
+- Retailers
+- Regions
+- Sales Methods
+- Monthly Sales
+- Quarterly Sales
+
+---
+
+## PivotCharts
+
+PivotCharts transformed analytical summaries into visual insights that supported dashboard development.
+
+---
+
+## Dashboard Design
+
+An interactive dashboard was created to communicate business performance.
+
+The dashboard included:
+
+- KPI Cards
+- Revenue Analysis
+- Monthly Trends
+- Quarterly Trends
+- Regional Performance
+- Retailer Performance
+- Sales Method Performance
+- Product Category Performance
+
+The dashboard was designed to support business decision-making rather than simply display charts.
+
+---
+
+# Business Insights
+
+The project produced several business insights, including:
+
+- Top-performing product categories
+- Highest-performing retailers
+- Strongest sales regions
+- Best-performing sales methods
+- Monthly sales patterns
+- Quarterly performance trends
+
+These insights formed the basis for strategic business recommendations.
+
+---
+
+# Recommendations
+
+Based on the analysis, recommendations focused on:
+
+- Increasing investment in high-performing product categories
+- Improving performance in weaker regions
+- Strengthening successful sales channels
+- Monitoring seasonal demand
+- Improving inventory planning
+- Supporting underperforming retailers
+- Using data for continuous performance monitoring
+
+---
+
+# Leadership Experience
+
+Week 3 further strengthened my role as Team Leader.
+
+Responsibilities included:
+
+- Coordinating meetings
+- Explaining analytical concepts
+- Supporting team members
+- Organising project activities
+- Reviewing analytical outputs
+
+One memorable experience occurred during a group discussion where I explained the relationship between:
+
+- Dataset
+- PivotTables
+- Dashboard
+
+After the meeting, another learner privately complimented my communication skills, noting that I demonstrated a good understanding of answering business questions.
+
+That feedback reminded me that Business Data Analytics is not only about technical skills but also about communicating insights clearly.
+
+---
+
+# Skills Developed
+
+## Technical Skills
+
+- Microsoft Excel
+- Data Cleaning
+- Data Validation
+- PivotTables
+- PivotCharts
+- Dashboard Design
+- KPI Analysis
+- Business Reporting
+
+---
+
+## Analytical Skills
+
+- Business Problem Solving
+- Data Validation
+- Critical Thinking
+- Trend Analysis
+- Performance Analysis
+- Business Storytelling
+
+---
+
+## Professional Skills
+
+- Leadership
+- Communication
+- Collaboration
+- Documentation
+- Presentation
+- Stakeholder Thinking
+
+---
+
+# Challenges Encountered
+
+Some challenges experienced during the project included:
+
+- Understanding the business before analysing the data
+- Selecting the most appropriate charts
+- Validating inconsistent sales values
+- Structuring dashboards for business users
+- Translating findings into actionable recommendations
+
+Each challenge improved both technical and analytical thinking.
+
+---
+
+# Reflection
+
+Week 3 completely changed my understanding of Business Data Analytics.
+
+I realised that dashboards are only one part of the analytical process.
+
+A dashboard explains **what happened**.
+
+A Business Data Analyst explains:
+
+- Why it happened.
+- What it means.
+- What the business should do next.
+
+This experience strengthened my confidence in solving real business problems using data.
+
+---
+
+# Supporting Documents
+
+This folder contains:
+
+- Week 3 Learning Report
+- Assignment Brief
+- Business Understanding
+- Data Understanding
+- Data Cleaning Report
+- Excel Workbook
+- Dashboard
+- Presentation Slides
+- Business Case Study
+- Reflection
+- Supporting Images
+
+[View Week 3 Full Report](https://docs.google.com/document/d/15eZthwE-5s43xHHa86FEg45IWu9AWvHy/edit?usp=drive_link&ouid=101332213066321311314&rtpof=true&sd=true)
+
+---
+
+# Next Steps
+
+Week 4 will build upon this project by introducing:
+
+- Database Fundamentals
+- Entity Relationship Diagrams (ERDs)
+- Relational Database Concepts
+- Final Capstone Presentation
+- Programme Completion
+- Beginners Certificate
+
+The goal is to continue strengthening my technical foundation before progressing to the Advanced Business Data Analytics programme.
+
+---
+
+## Author
+
+**Adah Hope**  
+Business Data Analytics Learner
+
+---
+
+> "A dashboard tells the story of the data. A Business Data Analyst tells the story behind the data."
+
 ---
 
 ## Week 4
