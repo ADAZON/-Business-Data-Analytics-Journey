@@ -1007,14 +1007,6 @@ This folder contains:
 
 ---
 
-## Author
-
-**Adah Hope**  
-Business Data Analytics Learner  
-Business Data Analytics Portfolio
-
----
-
 > Every analytics journey begins with learning how to ask the right business questions.
 
 ### Lessons Learned
@@ -1525,13 +1517,6 @@ This folder contains:
 
 ---
 
-## Author
-
-**Adah Hope**  
-Business Data Analytics Learner
-
----
-
 > "Business analysis starts with understanding the problem. Excel simply becomes the tool that helps uncover the answer."
 
 ---
@@ -1944,13 +1929,6 @@ The goal is to continue strengthening my technical foundation before progressing
 
 ---
 
-## Author
-
-**Adah Hope**  
-Business Data Analytics Learner
-
----
-
 > "A dashboard tells the story of the data. A Business Data Analyst tells the story behind the data."
 
 ---
@@ -1975,6 +1953,392 @@ One of my biggest achievements wasn't simply completing the project.
 
 It was learning how to think like a Business Data Analyst by asking better questions, validating data, and communicating business insights confidently.
 
+# Week 4: Database Fundamentals, Capstone Presentation & Programme Completion
+
+## Business Data Analytics Learning Journey
+
+**Period:** Week 4  
+**Programme:** BeTechified Africa Scholarship – Business Data Analytics Beginners Class  
+**Prepared by:** Adah Hope
+
+---
+
+# Week 4 Overview
+
+Week 4 marked the successful completion of the Beginners Phase of my Business Data Analytics journey.
+
+It was the most comprehensive and rewarding week of the programme, bringing together everything I had learned over the previous weeks. During this period, I studied database fundamentals, completed my final assignment, delivered my capstone project presentation, received my certificate of completion, and began organising my work into a professional portfolio.
+
+This week reinforced an important lesson:
+
+> Business Data Analytics is more than analysing spreadsheets. It involves understanding how data is stored, structured, analysed, communicated, and transformed into business value.
+
+Week 4 represented the transition from being a beginner learning concepts to becoming someone capable of completing an end-to-end analytics project.
+
+---
+
+# Week 4 Objectives
+
+The objectives for Week 4 were to:
+
+- Learn database fundamentals.
+- Understand relational database concepts.
+- Design an Entity Relationship Diagram (ERD).
+- Complete the Week 4 assignment.
+- Finalise the Business Data Analytics Capstone Project.
+- Present the capstone project.
+- Complete the Beginners Programme.
+- Begin preparing a professional analytics portfolio.
+
+---
+
+# Topics Covered
+
+Week 4 introduced several new concepts that expanded my understanding beyond Microsoft Excel.
+
+Topics studied included:
+
+- Introduction to Databases
+- Relational Database Concepts
+- Entity Relationship Diagrams (ERD)
+- Primary Keys
+- Foreign Keys
+- One-to-Many Relationships
+- Business Data Modelling
+- Project Presentation
+- Business Storytelling
+
+These concepts provided the foundation for future learning in SQL, database management, and Business Intelligence.
+
+---
+
+# Introduction to Databases
+
+One of the biggest milestones this week was learning how businesses organise and manage data inside relational databases.
+
+I learned that a database is far more than a collection of tables.
+
+It is a structured system designed to:
+
+- Store information efficiently
+- Maintain data integrity
+- Reduce redundancy
+- Support reporting
+- Enable business analysis
+- Improve operational efficiency
+
+Understanding database structure helps Business Data Analysts write better SQL queries, build accurate reports, and design more effective dashboards.
+
+---
+
+# Relational Database Concepts
+
+The concept of relationships between tables was introduced.
+
+Key concepts included:
+
+## Entities
+
+Real-world objects represented as tables.
+
+Examples:
+
+- Customers
+- Products
+- Orders
+
+---
+
+## Attributes
+
+Information describing each entity.
+
+Example:
+
+Customer
+
+- Customer ID
+- Name
+- Email
+- Phone Number
+
+---
+
+## Primary Keys
+
+A Primary Key uniquely identifies every record within a table.
+
+Example:
+
+Customer ID
+
+Every customer must have a unique identifier.
+
+---
+
+## Foreign Keys
+
+A Foreign Key connects one table to another.
+
+This allows information from multiple tables to be analysed together.
+
+---
+
+## One-to-Many Relationships
+
+One customer can place many orders.
+
+One product can appear in many orders.
+
+Understanding relationships makes database reporting much more efficient.
+
+---
+
+# Week 4 Assignment
+
+## Entity Relationship Diagram (ERD)
+
+The final assignment required designing an Entity Relationship Diagram using Draw.io.
+
+The project modelled a simple sales database containing three entities:
+
+### Customers
+
+Attributes included:
+
+- Customer ID
+- Name
+- Email
+- Phone
+
+---
+
+### Products
+
+Attributes included:
+
+- Product ID
+- Product Name
+- Category
+- Unit Price
+
+---
+
+### Orders
+
+Attributes included:
+
+- Order ID
+- Customer ID
+- Product ID
+- Order Date
+- Quantity
+
+The Orders table connected both Customers and Products through Foreign Keys.
+
+---
+
+# Skills Developed Through the ERD Assignment
+
+This assignment strengthened my understanding of:
+
+- Database Design
+- Data Modelling
+- Relational Databases
+- Primary Keys
+- Foreign Keys
+- One-to-Many Relationships
+- Business System Design
+
+It also prepared me for learning SQL in future modules.
+
+---
+
+# Capstone Project Completion
+
+Week 4 also marked the completion of my first Business Data Analytics Capstone Project.
+
+The project brought together every concept learned during the Beginners Programme.
+
+The complete workflow included:
+
+- Business Understanding
+- Data Understanding
+- Data Cleaning
+- Data Validation
+- Helper Columns
+- PivotTables
+- PivotCharts
+- Dashboard Development
+- KPI Analysis
+- Business Insights
+- Strategic Recommendations
+- Final Presentation
+
+Completing this project gave me practical experience in solving a real business problem using data.
+
+---
+
+# Capstone Presentation
+
+One of the highlights of Week 4 was presenting the completed capstone project.
+
+The presentation involved:
+
+- Explaining the business problem.
+- Describing the analytical process.
+- Demonstrating the dashboard.
+- Communicating business insights.
+- Presenting strategic recommendations.
+
+This experience strengthened my confidence in business communication and data storytelling.
+
+---
+
+# Programme Completion
+
+Week 4 officially marked the successful completion of the BeTechified Business Data Analytics Beginners Programme.
+
+Receiving my Certificate of Completion represented more than finishing a course.
+
+It symbolised:
+
+- Commitment to continuous learning.
+- Consistency throughout the programme.
+- Practical application of Business Data Analytics concepts.
+- Successful completion of my first end-to-end analytics project.
+
+---
+
+# Portfolio Development
+
+Beyond technical learning, I began organising my work into a professional portfolio.
+
+Activities included:
+
+- Creating structured GitHub repositories.
+- Documenting weekly learning reports.
+- Publishing LinkedIn reflections.
+- Organising project documentation.
+- Preparing professional case studies.
+
+This portfolio will continue to grow as I complete future analytics projects.
+
+---
+
+# Major Achievements
+
+By the end of Week 4, I had successfully:
+
+- Completed the Week 4 ERD Assignment.
+- Learned database fundamentals.
+- Designed an Entity Relationship Diagram.
+- Understood relational database concepts.
+- Completed the Business Data Analytics Capstone Project.
+- Delivered the Capstone Project Presentation.
+- Received positive feedback on analytical communication.
+- Earned my Beginners Programme Certificate.
+- Begun documenting my analytics portfolio on GitHub.
+
+---
+
+# Skills Developed
+
+## Technical Skills
+
+- Microsoft Excel
+- Data Cleaning
+- Data Validation
+- Dashboard Design
+- KPI Analysis
+- Database Fundamentals
+- Data Modelling
+- Entity Relationship Diagrams
+
+---
+
+## Business Skills
+
+- Business Storytelling
+- Stakeholder Communication
+- Business Problem Solving
+- Analytical Thinking
+- Presentation Skills
+
+---
+
+## Professional Skills
+
+- Documentation
+- Portfolio Development
+- Leadership
+- Collaboration
+- Continuous Learning
+
+---
+
+# Reflection
+
+Week 4 demonstrated how much can be achieved through consistent effort and deliberate practice.
+
+Looking back at Week 1, I began by learning what Business Data Analytics was.
+
+Four weeks later, I had:
+
+- Completed my first end-to-end analytics project.
+- Designed my first interactive dashboard.
+- Presented business insights.
+- Learned database modelling.
+- Earned my first Business Data Analytics certificate.
+
+This week reinforced that becoming an analyst is not about mastering one tool.
+
+It is about developing the ability to understand business problems, analyse data critically, communicate insights clearly, and support better decision-making.
+
+---
+
+# Key Lessons Learned
+
+Some of the biggest lessons from Week 4 include:
+
+- Database design is the foundation of reliable reporting.
+- Understanding data structure is as important as analysing the data itself.
+- Business storytelling increases the impact of analytical work.
+- Presentation skills are essential for communicating insights.
+- Continuous documentation strengthens professional growth.
+
+[View Week 4 Report](https://docs.google.com/document/d/13syNhkjytxaTfJSGkdRCe49d_VMsQnDX/edit?usp=drive_link&ouid=101332213066321311314&rtpof=true&sd=true)
+
+---
+
+# Next Steps
+
+Completing the Beginners Programme is not the end of the journey.
+
+Before progressing into the Advanced Class, I plan to spend dedicated time strengthening my Microsoft Excel foundation through deliberate practice.
+
+My focus will include:
+
+- Excel Functions
+- Data Cleaning
+- PivotTables
+- Dashboard Design
+- KPI Analysis
+- Business Reporting
+
+Building a stronger foundation will prepare me for more advanced topics including:
+
+- SQL
+- Power BI
+- Python
+- Database Management
+- Business Intelligence
+- Advanced Analytics
+
+---
+
+> *"The Beginners Programme gave me the foundation. The next stage is mastering the tools, solving more complex business problems, and continuously growing into a Business Data Analyst who creates measurable business value."*
+ 
 ---
 
 # 📁 Projects
