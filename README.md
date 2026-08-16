@@ -291,4 +291,543 @@ Currently developing expertise in:
 
 > *"Learning never stops. Every project, every challenge, and every dataset is an opportunity to become a better analyst."*
 
+---
+
+# 14-Day Post-Training Performance Review
+
+**Review Period:** 3 August 2026 - 16 August 2026
+**Training:** Betechified Africa Beginners' Data Analytics Programme
+**Professional Track:** Business Data Analytics
+**Prepared by:** Adah Hope
+
+---
+
+## 1. Overview
+
+Two weeks have passed since completing the Betechified Africa Beginners' Data Analytics Programme.
+
+The purpose of this review is to measure what has happened after the training, not simply what was learned during it.
+
+The review evaluates progress across:
+
+* Technical development
+* Practical analytics
+* Business research
+* Career development
+* Portfolio development
+* Leadership
+* Professional positioning
+* Job-market exposure
+* Challenges and skill gaps
+* Priorities for the next development period
+
+The most important change during this period has been the transition from approaching Data Analytics primarily as a learner to beginning to operate as an emerging **Business Data Analyst**.
+
+---
+
+# 2. Starting Point
+
+At the completion of the Betechified programme, the foundation included:
+
+* Data Analytics fundamentals
+* Microsoft Excel
+* Data cleaning
+* PivotTables
+* PivotCharts
+* Dashboard development
+* KPI analysis
+* Business-question interpretation
+* Data visualisation
+* Basic database concepts
+* Entity Relationship Diagrams
+* Data storytelling and presentation
+
+The major capstone project involved analysing **9,648 Adidas sales transactions covering 2020-2021**.
+
+The analysis explored:
+
+* Revenue performance
+* Regional performance
+* Product performance
+* Retailer performance
+* Sales methods
+* Monthly and quarterly trends
+* Profitability
+* Business recommendations
+
+The programme provided the technical and analytical baseline for the next stage of development.
+
+---
+
+# 3. Major Achievements During the 14 Days
+
+## 3.1 Transitioned From Training to Real Business Analysis
+
+One of the most important achievements was moving beyond structured training datasets into a real institutional business-research environment.
+
+Through the **Data Analytics / Business Research Pod**, I completed:
+
+### Module 0: Insight & Brainstorm Audit
+
+**Project:** Current-State Measurement & Decision-Support Assessment
+
+The objective was to investigate how an institution could transform recurring activities into structured information that supports better management decisions.
+
+The analytical process followed:
+
+**Observe → Critique → Research → Recommend → Report**
+
+The work involved:
+
+* Reviewing available institutional and programme information
+* Separating verified evidence from assumptions and unknowns
+* Identifying measurement visibility gaps
+* Identifying management decisions requiring stronger evidence
+* Researching a practical measurement approach
+* Designing an initial performance-measurement framework
+* Defining priority KPIs
+* Considering data-quality and governance requirements
+* Developing management recommendations
+* Presenting the findings
+
+---
+
+## 3.2 Identified Decision-Support Opportunities
+
+The audit identified several areas where structured measurement could support management decisions:
+
+1. Apprentice progression
+2. Resource allocation
+3. Venture prioritisation
+4. Marketing and channel performance
+5. Service portfolio decisions
+6. Operational standardisation
+
+A major lesson from this exercise was that Business Data Analytics is not simply about finding more data.
+
+The more important question is:
+
+> **What information is required to make a better decision?**
+
+---
+
+# 4. Designed a Minimum Viable Measurement System
+
+Rather than immediately recommending a complex dashboard, I proposed starting with a:
+
+## Centralised Institutional Performance Tracker
+
+The proposed measurement flow was:
+
+**Activity → Capture → Measure → Review → Decide**
+
+The system would create structured historical information before introducing more advanced reporting.
+
+Four core registers were proposed:
+
+* Participant Register
+* Contribution Log
+* Review Log
+* Progression Log
+
+This reinforced an important analytical principle:
+
+> A dashboard cannot repair poor, incomplete or inconsistently captured source data.
+
+Reliable reporting begins with reliable data capture.
+
+---
+
+# 5. Developed Three Priority KPIs
+
+Three initial KPIs were proposed for the Founder Apprenticeship pilot.
+
+### 1. Weekly Contribution Completion Rate
+
+**Formula:**
+
+Completed Weekly Outputs ÷ Total Assigned Weekly Outputs × 100
+
+**Purpose:** Measure participation and execution.
+
+### 2. On-Time Submission Rate
+
+**Formula:**
+
+Outputs Submitted On Time ÷ Total Outputs Due × 100
+
+**Purpose:** Measure reliability and deadline discipline.
+
+### 3. Capability Progression Rate
+
+**Formula:**
+
+Participants Progressing to Next Stage ÷ Participants Eligible for Progression × 100
+
+**Purpose:** Measure whether participation is translating into capability development.
+
+Together, the metrics represent:
+
+**Participation → Reliability → Development**
+
+---
+
+# 6. Strengthened Analytical Discipline
+
+The Module 0 project introduced a stronger evidence-based approach to analysis.
+
+A key framework applied was:
+
+**Fact → Calculation → Inference → Assumption → Recommendation**
+
+This helped reinforce the importance of distinguishing what the available evidence actually proves from what an analyst believes may be happening.
+
+For example, the absence of a visible consolidated measurement framework was not treated as evidence that no internal measurement system existed.
+
+Instead, the conclusion was limited to what could be supported by the reviewed evidence.
+
+This was an important improvement in analytical thinking.
+
+---
+
+# 7. Presented Analytical Findings
+
+The research was converted into an executive-style presentation for stakeholder discussion.
+
+The presentation communicated:
+
+* Current-state findings
+* Measurement gaps
+* Decision-support opportunities
+* Recommended tracking architecture
+* KPI definitions
+* Data-governance considerations
+* Implementation priorities
+* Limitations
+* Recommended next steps
+
+The project ended with a stakeholder-focused question:
+
+> If the founder stepped away for 30 days, which important performance or progression decisions would become difficult because the necessary information is not yet captured in a structured system?
+
+This exercise strengthened my ability to move from:
+
+**Analysis → Insight → Recommendation → Stakeholder Communication**
+
+---
+
+# 8. Leadership Development
+
+Leadership has also become an important part of the post-training period.
+
+During the Betechified programme, I served as a team leader during the group analytics project.
+
+During these two weeks, I was also appointed as a **Leader in the Architecture of Inner Self Program**, with three other participants assigned to work with me.
+
+This introduced additional responsibility around:
+
+* Team coordination
+* Communication
+* Accountability
+* Collaboration
+* Delegation
+* Supporting collective execution
+
+The repeated leadership opportunities are helping develop capabilities that complement technical analytics skills, particularly because Business Data Analysts frequently work across teams and stakeholders.
+
+---
+
+# 9. Career and Job-Market Development
+
+The two-week period also involved actively transitioning from learning into the employment market.
+
+Activities included:
+
+* Repositioning my résumé toward Business Data Analytics
+* Refining my professional profile
+* Identifying appropriate entry-level analytical roles
+* Preparing for assessments
+* Exploring remote opportunities
+* Creating and developing an Upwork profile
+* Exploring freelance project structures
+* Evaluating hourly versus fixed-price work
+* Identifying suitable skills and deliverables
+* Researching professional networks within Data Analytics
+
+Target roles currently include:
+
+* Junior Data Analyst
+* Reporting Analyst
+* Operations Analyst
+* Data Quality Analyst
+* MIS/Reporting Analyst
+* AI Data/Data Annotation roles
+
+This represents an important shift from preparing to become employable toward actively testing my skills and positioning against the market.
+
+---
+
+# 10. Portfolio Development
+
+The portfolio now contains evidence from different types of analytical work.
+
+### Betechified Projects
+
+* Adidas Sales Performance Analysis
+* Retail Sales Dashboard
+* Data Cleaning Exercises
+* Business Question Analysis
+* ER Diagram / Data-Modelling Assignment
+
+### Post-Betechified Work
+
+* Module 0 Insight & Brainstorm Audit
+* Institutional Measurement Assessment
+* KPI Framework Development
+* Centralised Performance Tracker Recommendation
+* Executive Analytical Presentation
+
+This represents progress from classroom-style analytics toward business-oriented problem solving.
+
+---
+
+# 11. Professional Positioning
+
+Another major development has been professional identity.
+
+Previously, I frequently positioned myself primarily as a beginner or learner.
+
+The mindset during these two weeks has changed.
+
+The current professional positioning is:
+
+> **Business Data Analyst**
+
+The broader direction is to combine:
+
+**Data + Analysis + Business Thinking + Creative Thinking + Communication**
+
+The objective is not simply to build dashboards.
+
+The objective is to help businesses understand what is happening, why it matters and what decision should follow.
+
+---
+
+# 12. Challenges and Development Gaps
+
+The review also identified important weaknesses.
+
+## SQL
+
+SQL remains a significant technical gap.
+
+Although database concepts have been introduced, SQL has not yet developed into a practical working skill.
+
+This is now one of the highest-priority learning areas.
+
+## Power BI
+
+Current dashboard capability remains primarily Excel-based.
+
+Power BI has not yet been developed sufficiently to claim professional competency.
+
+## Python
+
+Python remains part of the longer-term analytics roadmap and is not currently an operational skill.
+
+## Balancing Learning With Career Activities
+
+A significant amount of time during the two weeks was spent on:
+
+* Résumé development
+* Applications
+* Professional positioning
+* Networking
+* Upwork
+* Apprenticeship activities
+* Portfolio development
+* Personal branding
+
+These activities have created professional momentum, but technical development must remain a priority.
+
+The key risk is allowing professional positioning to develop faster than the technical capability supporting it.
+
+---
+
+# 13. Current Performance Assessment
+
+| Performance Area              | Self-Assessment |
+| ----------------------------- | --------------: |
+| Career Clarity                |            9/10 |
+| Professional Positioning      |            9/10 |
+| Portfolio Development         |            9/10 |
+| Business Problem Thinking     |            9/10 |
+| Business Research             |            9/10 |
+| Data Storytelling             |            9/10 |
+| Stakeholder Communication     |            9/10 |
+| Leadership Development        |            9/10 |
+| Practical Analytical Exposure |            9/10 |
+| Excel                         |            7/10 |
+| Job-Market Activity           |            9/10 |
+| Freelance Preparation         |            8/10 |
+| SQL                           |            2/10 |
+| Power BI                      |            1/10 |
+| Python                        |            1/10 |
+
+### Overall Assessment
+
+**Approximately 80% - Strong Progress**
+
+This percentage is a developmental self-assessment rather than a formal statistical performance score.
+
+The strongest progress has occurred in:
+
+* Business thinking
+* Analytical problem framing
+* Research
+* Communication
+* Leadership
+* Career positioning
+* Practical exposure
+
+The largest gaps remain in:
+
+* SQL
+* Power BI
+* Python
+* Advanced technical analytics
+
+---
+
+# 14. Biggest Lesson From the First 14 Days
+
+The biggest lesson has been that becoming a Business Data Analyst requires more than learning software.
+
+Tools are important, but the analyst must also be able to ask:
+
+**What is the business problem?**
+
+**What decision needs to be made?**
+
+**What data is required?**
+
+**Can the data be trusted?**
+
+**What does the evidence actually show?**
+
+**What remains unknown?**
+
+**What action should follow the analysis?**
+
+The Module 0 project made this particularly clear.
+
+---
+
+# 15. Next 14-Day Priorities
+
+The next phase will focus more heavily on technical depth.
+
+### Priority 1: Excel
+
+Strengthen commonly used analytical functions, including:
+
+* XLOOKUP
+* SUMIFS
+* COUNTIFS
+* IF/IFS
+* INDEX/MATCH
+* Text functions
+* Date functions
+* PivotTables
+* Data validation and cleaning
+
+### Priority 2: SQL
+
+Begin structured SQL practice covering:
+
+* SELECT
+* FROM
+* WHERE
+* ORDER BY
+* GROUP BY
+* HAVING
+* Aggregate functions
+* CASE
+* JOINS
+
+**Target:** 30-50 SQL exercises.
+
+### Priority 3: Independent Analytics Project
+
+Complete at least one project independently using:
+
+**Business Problem → Data Preparation → Analysis → Insight → Recommendation**
+
+### Priority 4: Job Applications
+
+Track the application funnel properly:
+
+**Applications → Responses → Assessments → Interviews → Offers**
+
+### Priority 5: Portfolio Documentation
+
+Continue documenting projects on GitHub with emphasis on:
+
+* Business context
+* Methodology
+* Data quality
+* Analysis
+* Findings
+* Recommendations
+* Limitations
+
+---
+
+# 16. Final Reflection
+
+The first two weeks after Betechified have not been about becoming an expert.
+
+They have been about proving that the training can be converted into action.
+
+Within this period, I have moved from completing structured training projects to participating in real business research, developing KPIs, thinking about institutional measurement, presenting recommendations, taking on leadership responsibility, building my portfolio and entering the job and freelance markets.
+
+There is still substantial technical development ahead.
+
+SQL needs to be learned.
+
+Power BI needs to be developed.
+
+Excel needs to become stronger.
+
+More independent projects need to be completed.
+
+However, the direction is considerably clearer than it was two weeks ago.
+
+The next objective is therefore not simply to **look more like a Business Data Analyst**.
+
+It is to continue building enough technical capability, analytical evidence and real-world experience to **perform consistently as one**.
+
+---
+
+## Current Status
+
+**Training:** Completed
+**Portfolio:** Building
+**Excel:** Developing
+**SQL:** Next Priority
+**Power BI:** Upcoming
+**Business Research:** Active
+**Real-World Analytics Exposure:** Active
+**Leadership:** Active
+**Job Search:** Active
+**Freelance Exploration:** Active
+
+### Next Review
+
+**30-Day Post-Training Performance Review**
+
+The objective of the next review will be simple:
+
+> **Measure evidence of improvement, not just activity.**
+
 ⭐ Thank you for visiting my repository!
