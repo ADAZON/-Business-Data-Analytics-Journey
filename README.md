@@ -1044,6 +1044,496 @@ Retail Sales Dashboard
 - Excel is much more than formulas.
 - Pivot Tables simplify business reporting.
 
+- # Week 2: Excel Fundamentals & Business Analysis
+
+## Business Data Analytics Learning Journey
+
+**Period:** Week 2  
+**Programme:** BeTechified Africa Scholarship – Business Data Analytics  
+**Prepared by:** Adah Hope
+
+---
+
+# Week 2 Overview
+
+Week 2 marked my transition from learning the theory of Business Data Analytics to applying Microsoft Excel in practical business scenarios.
+
+Unlike Week 1, which focused on understanding the profession, Week 2 introduced hands-on analytical work using Excel. I learned how Excel functions support business analysis, how to clean and prepare datasets, and how structured data enables accurate business decisions.
+
+This week also marked an important milestone in my leadership journey. I was selected as the Team Leader for my Capstone Project subgroup, giving me practical experience in collaboration, communication, and project coordination.
+
+By the end of the week, I had completed the Week 2 Excel assignment, documented the first two phases of the Capstone Project, and strengthened both my technical and leadership capabilities.
+
+---
+
+# Week 2 Objectives
+
+The primary objectives for Week 2 were:
+
+- Strengthen Microsoft Excel fundamentals
+- Apply Excel functions to business datasets
+- Understand data preparation techniques
+- Complete the Week 2 practical assignment
+- Begin documenting the Capstone Project
+- Improve analytical thinking
+- Continue building a professional learning portfolio
+
+---
+
+# Microsoft Excel Skills Learned
+
+Week 2 introduced several Excel concepts that form the foundation of business analysis.
+
+## Understanding Data Types
+
+Before performing analysis, I learned how different data types affect calculations and reporting.
+
+The major data types covered included:
+
+- Text
+- Number
+- Date and Time
+- Boolean (TRUE/FALSE)
+
+Understanding data types improves:
+
+- Calculation accuracy
+- Formula behaviour
+- Sorting
+- Filtering
+- Reporting
+
+---
+
+## Cell Formatting
+
+Formatting helps improve readability and interpretation.
+
+Topics covered included:
+
+- Number formatting
+- Currency formatting
+- Percentage formatting
+- Date formatting
+- Font formatting
+- Cell alignment
+- Borders
+- Fill colours
+
+Proper formatting makes business reports easier to understand and reduces interpretation errors.
+
+---
+
+## Conditional Formatting
+
+I learned how Conditional Formatting automatically highlights important business information.
+
+Examples included:
+
+- High-value transactions
+- Low-performing values
+- Duplicate records
+- Colour scales
+- Data bars
+- Icon sets
+
+Business value:
+
+Instead of manually searching large datasets, Conditional Formatting allows important patterns and exceptions to become immediately visible.
+
+---
+
+# Excel Functions Learned
+
+One of the major objectives of Week 2 was learning foundational Excel functions.
+
+## Text Functions
+
+### LEFT()
+
+Extracts characters from the beginning of a text string.
+
+Business application:
+
+- Product codes
+- Customer IDs
+- Region codes
+
+---
+
+### RIGHT()
+
+Extracts characters from the end of a text string.
+
+Business application:
+
+- Year extraction
+- Suffix identification
+- Transaction codes
+
+---
+
+### MID()
+
+Extracts characters from the middle of a text string.
+
+Business application:
+
+- Product identifiers
+- Customer segments
+- Encoded values
+
+---
+
+### LEN()
+
+Counts the number of characters in a text string.
+
+Business application:
+
+- Data validation
+- Detecting incomplete records
+- Quality checks
+
+---
+
+### CONCATENATE()
+
+Combines multiple text values into one.
+
+Business application:
+
+- Full names
+- Customer references
+- Addresses
+- Product descriptions
+
+---
+
+# Logical Functions
+
+## IF()
+
+Introduced logical decision-making inside Excel.
+
+Example business use cases:
+
+- High Sales / Low Sales
+- Pass / Fail
+- Approved / Rejected
+- Profit / Loss
+
+The IF function showed how business rules can be automated inside Excel.
+
+---
+
+## COUNTIF()
+
+Used to count values that satisfy specific conditions.
+
+Business applications include:
+
+- Number of completed transactions
+- Number of customers in a region
+- Number of high-value orders
+- Number of delayed deliveries
+
+---
+
+# Data Cleaning Techniques
+
+Reliable analysis depends on clean data.
+
+Week 2 introduced several important cleaning techniques.
+
+## TRIM()
+
+Removes unnecessary spaces from text values.
+
+Business value:
+
+Prevents duplicate customer names caused by extra spaces.
+
+---
+
+## Remove Duplicates
+
+Used to eliminate repeated records.
+
+Business value:
+
+Improves reporting accuracy and prevents double counting.
+
+---
+
+## Find and Replace
+
+Used to standardise inconsistent values.
+
+Examples:
+
+- Correct spelling errors
+- Standardise product names
+- Correct abbreviations
+
+---
+
+## Text to Columns
+
+Used to separate combined information into individual fields.
+
+Business value:
+
+Makes customer names, addresses and dates easier to analyse.
+
+---
+
+# Data Validation
+
+Data Validation was introduced to control user input.
+
+Example:
+
+Creating drop-down lists.
+
+Business value:
+
+- Reduces entry errors
+- Improves consistency
+- Standardises business records
+
+---
+
+# Week 2 Assignment
+
+The Week 2 assignment focused on analysing a Retail Sales dataset using Microsoft Excel.
+
+The assignment required me to apply the Excel concepts learned during the week to solve practical business tasks.
+
+The assignment included:
+
+- Extracting values from dates
+- Extracting values from text
+- Creating calculated fields
+- Classifying transactions using IF()
+- Applying Conditional Formatting
+- Creating Data Validation drop-down lists
+
+Functions used included:
+
+- LEFT()
+- RIGHT()
+- MID()
+- LEN()
+- CONCATENATE()
+- IF()
+- Conditional Formatting
+- Data Validation
+
+The assignment was completed successfully using Excel best practices.
+
+---
+
+# Capstone Project Progress
+
+Week 2 also marked the official beginning of my Capstone Project.
+
+## Phase 1: Understanding the Business
+
+Completed.
+
+This phase involved:
+
+- Defining the business problem
+- Identifying stakeholders
+- Establishing business objectives
+- Defining KPIs
+- Determining project scope
+
+One of the biggest lessons from this phase was that successful analysis begins with understanding the business before analysing the data.
+
+---
+
+## Phase 2: Understanding the Dataset
+
+Completed.
+
+Activities included:
+
+- Reviewing dataset structure
+- Understanding variables
+- Assessing data quality
+- Identifying analytical opportunities
+- Planning the analytical workflow
+
+This phase reinforced that data preparation starts with understanding the dataset before cleaning or analysing it.
+
+---
+
+# Leadership Development
+
+One of the biggest highlights of Week 2 was being selected as the Team Leader for my Capstone Project subgroup.
+
+Responsibilities included:
+
+- Coordinating meetings
+- Encouraging collaboration
+- Organising project discussions
+- Supporting team members
+- Monitoring project progress
+- Helping the team work towards shared objectives
+
+This experience strengthened several professional skills beyond technical analytics.
+
+Leadership skills developed included:
+
+- Communication
+- Team coordination
+- Organisation
+- Accountability
+- Collaboration
+- Decision-making
+
+---
+
+# Business Thinking Developed
+
+Week 2 significantly improved my analytical mindset.
+
+Some of the biggest lessons included:
+
+- Every analysis begins with understanding the business problem.
+- Data quality directly influences business decisions.
+- Excel functions should answer business questions, not simply perform calculations.
+- Insights become valuable when translated into recommendations.
+- Technical skills must support business objectives.
+
+---
+
+# Weekly Deliverables
+
+By the end of Week 2, I had completed:
+
+- Week 2 Excel Assignment
+- Retail Sales Workbook
+- Capstone Project Phase 1
+- Capstone Project Phase 2
+- Week 2 Learning Report
+- Week 2 Carousel
+- LinkedIn Learning Post
+- Facebook Learning Post
+- X (Twitter) Learning Post
+
+---
+
+# Challenges Encountered
+
+Several challenges were experienced during the week.
+
+These included:
+
+- Balancing learning with work commitments
+- Selecting appropriate Excel functions
+- Managing project documentation
+- Coordinating team leadership responsibilities
+
+One important improvement made during the week was transitioning documentation from Notion to Google Drive for better organisation.
+
+---
+
+# Skills Developed
+
+### Technical Skills
+
+- Microsoft Excel
+- Text Functions
+- Logical Functions
+- Data Cleaning
+- Data Validation
+- Conditional Formatting
+- Dataset Preparation
+
+### Business Skills
+
+- Analytical Thinking
+- Business Understanding
+- Problem Solving
+- Documentation
+- Communication
+
+### Leadership Skills
+
+- Team Coordination
+- Collaboration
+- Project Organisation
+- Accountability
+
+---
+
+# Reflection
+
+Week 2 represented an important shift in my learning journey.
+
+Rather than simply learning Excel formulas, I began understanding how Excel supports business decision-making.
+
+I also realised that technical knowledge alone is not enough.
+
+Business Data Analytics requires combining technical ability, business understanding, communication, and collaboration.
+
+Leading my Capstone Project subgroup also reminded me that analytics is often a team effort, requiring both technical competence and leadership.
+
+---
+
+# Key Lessons Learned
+
+- Excel is a business problem-solving tool.
+- Clean data produces reliable insights.
+- Business understanding should come before analysis.
+- Leadership and collaboration are essential in analytics projects.
+- Technical skills create value only when they support business decisions.
+
+---
+
+# Next Steps
+
+Moving into Week 3, my objectives were to:
+
+- Continue the BeTechified curriculum
+- Improve Excel speed and accuracy
+- Begin building PivotTables
+- Advance the Capstone Project
+- Strengthen business storytelling
+- Build an interactive dashboard
+- Expand my professional portfolio
+
+---
+
+# Supporting Documents
+
+This folder contains:
+
+- Week 2 Professional Learning Report
+- Week 2 Excel Assignment
+- Retail Sales Workbook
+- Phase 1 – Understanding the Business
+- Phase 2 – Understanding the Dataset
+- Week 2 Carousel
+- Learning Reflections
+- Supporting Screenshots
+
+[View Full Week 2 Report](https://docs.google.com/document/d/1tLojz-n__gZIWeUDmaHPygBTmFYVEGJH/edit?usp=drive_link&ouid=101332213066321311314&rtpof=true&sd=true)
+
+---
+
+## Author
+
+**Adah Hope**  
+Business Data Analytics Learner
+
+---
+
+> "Business analysis starts with understanding the problem. Excel simply becomes the tool that helps uncover the answer."
+
 ---
 
 ## Week 3
